@@ -1,8 +1,8 @@
-# template-repository
+# Focus Meditation Application-repository
 
 ## Description
 
-The existing repository is a template, I can generate new repositories with the same directory structure, branches, and files.
+A focus and meditation website to go to when time limits on certain websites are reached.
 
 ## Contents
 
@@ -16,17 +16,11 @@ The existing repository is a template, I can generate new repositories with the 
 
 ## Setup Steps
 
-```
-Code here
-```
-
-<p><img src="images/exampleImage.png" width="300"/></p>
+To see the deployed website, go to the following link https://jprendy.github.io/focus-meditation-application/
 
 ## How to run the project locally
 
-```
-Code here
-```
+Drag `index.html` to the browser.
 
 ## Tools
 
@@ -65,6 +59,3 @@ Code here
 How to manage releases in a repository [link](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository). 
 
 ## Helpful resources
-
-The following link provides helpful information
-- [link](https://github.com/JPrendy/template-repository).
